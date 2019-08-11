@@ -1,0 +1,36 @@
+Name
+Club
+Nation
+Age
+Position
+Rating
+Potential
+Acceleration
+Sprint Speed
+Positioning
+Finishing
+Long Shots
+Penalties
+Shot Power
+Volleys
+Crossing
+Curve
+FK. Accuracy
+Long Pass
+Short Pass.
+Vision
+Agility
+Balance
+Ball Control
+Dribbling
+Reactions
+Composure
+Heading Acc.
+Interceptions
+Marking
+Stand Tackle
+Slide Tackle
+Aggression
+Jumping
+Stamina
+Strength
