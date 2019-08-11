@@ -138,7 +138,7 @@ def scraper(year):
 
 
 if __name__ == '__main__':
-    years = ['18','19']
+    years = ['15','16','17','18','19']
     for year in years:
         print(year)
         init_csv_file(year)
